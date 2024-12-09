@@ -1,0 +1,7 @@
+[ 2024-12-05 12:56:35,947 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-05 12:56:35,956 ] 97 werkzeug - INFO -  * Debugger PIN: 410-778-800
+[ 2024-12-05 12:56:38,788 ] 30 root - INFO - Ok requested the website for data
+[ 2024-12-05 12:56:45,544 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2024 12:56:45] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2024-12-05 12:59:03,028 ] 30 root - INFO - Ok requested the website for data
+[ 2024-12-05 12:59:08,651 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2024 12:59:08] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2024-12-05 13:01:37,121 ] 97 werkzeug - INFO -  * Detected change in '/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/app.py', reloading

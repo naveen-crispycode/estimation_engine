@@ -1,0 +1,13 @@
+prefix=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv
+exec_prefix=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv
+libdir=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv/lib
+sharedlibdir=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv/lib
+includedir=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

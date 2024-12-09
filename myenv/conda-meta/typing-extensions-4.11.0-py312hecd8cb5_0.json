@@ -1,0 +1,32 @@
+{
+  "build": "py312hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "typing_extensions 4.11.0 py312hecd8cb5_0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/typing-extensions-4.11.0-py312hecd8cb5_0",
+  "files": [],
+  "fn": "typing-extensions-4.11.0-py312hecd8cb5_0.conda",
+  "license": "PSF-2.0",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/typing-extensions-4.11.0-py312hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "f9a17ab712a06e243046f6f7e2556bba",
+  "name": "typing-extensions",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/typing-extensions-4.11.0-py312hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2915272cacd09ede16b0a0e38c44edb74b087066fae2f7cde8cd61a08488e998",
+  "size": 10227,
+  "subdir": "osx-64",
+  "timestamp": 1715268978000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/typing-extensions-4.11.0-py312hecd8cb5_0.conda",
+  "version": "4.11.0"
+}

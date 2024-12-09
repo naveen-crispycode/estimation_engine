@@ -1,0 +1,561 @@
+{
+  "build": "py312h6c40b1e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/psutil-5.9.0-py312h6c40b1e_0",
+  "files": [
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/psutil-5.9.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/psutil/__init__.py",
+    "lib/python3.12/site-packages/psutil/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_common.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_compat.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_psaix.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_psbsd.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_pslinux.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_psosx.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_psposix.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_pssunos.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/__pycache__/_pswindows.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/_common.py",
+    "lib/python3.12/site-packages/psutil/_compat.py",
+    "lib/python3.12/site-packages/psutil/_psaix.py",
+    "lib/python3.12/site-packages/psutil/_psbsd.py",
+    "lib/python3.12/site-packages/psutil/_pslinux.py",
+    "lib/python3.12/site-packages/psutil/_psosx.py",
+    "lib/python3.12/site-packages/psutil/_psposix.py",
+    "lib/python3.12/site-packages/psutil/_pssunos.py",
+    "lib/python3.12/site-packages/psutil/_psutil_osx.cpython-312-darwin.so",
+    "lib/python3.12/site-packages/psutil/_psutil_posix.cpython-312-darwin.so",
+    "lib/python3.12/site-packages/psutil/_pswindows.py",
+    "lib/python3.12/site-packages/psutil/tests/__init__.py",
+    "lib/python3.12/site-packages/psutil/tests/__main__.py",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/__main__.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/runner.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_aix.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_bsd.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_connections.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_contracts.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_linux.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_memleaks.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_misc.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_osx.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_posix.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_process.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_sunos.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_system.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_testutils.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_unicode.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/__pycache__/test_windows.cpython-312.pyc",
+    "lib/python3.12/site-packages/psutil/tests/runner.py",
+    "lib/python3.12/site-packages/psutil/tests/test_aix.py",
+    "lib/python3.12/site-packages/psutil/tests/test_bsd.py",
+    "lib/python3.12/site-packages/psutil/tests/test_connections.py",
+    "lib/python3.12/site-packages/psutil/tests/test_contracts.py",
+    "lib/python3.12/site-packages/psutil/tests/test_linux.py",
+    "lib/python3.12/site-packages/psutil/tests/test_memleaks.py",
+    "lib/python3.12/site-packages/psutil/tests/test_misc.py",
+    "lib/python3.12/site-packages/psutil/tests/test_osx.py",
+    "lib/python3.12/site-packages/psutil/tests/test_posix.py",
+    "lib/python3.12/site-packages/psutil/tests/test_process.py",
+    "lib/python3.12/site-packages/psutil/tests/test_sunos.py",
+    "lib/python3.12/site-packages/psutil/tests/test_system.py",
+    "lib/python3.12/site-packages/psutil/tests/test_testutils.py",
+    "lib/python3.12/site-packages/psutil/tests/test_unicode.py",
+    "lib/python3.12/site-packages/psutil/tests/test_windows.py"
+  ],
+  "fn": "psutil-5.9.0-py312h6c40b1e_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/psutil-5.9.0-py312h6c40b1e_0",
+    "type": 1
+  },
+  "md5": "b9862939a7f9580570fddd1cfe5d7cbf",
+  "name": "psutil",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/psutil-5.9.0-py312h6c40b1e_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "24c12984500caa07ffdce19eebc06396c5e6d244b573bc6c438f4a6ef8e56c1b",
+        "sha256_in_prefix": "24c12984500caa07ffdce19eebc06396c5e6d244b573bc6c438f4a6ef8e56c1b",
+        "size_in_bytes": 1549
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "71ac62719c507d4f3510c43d80c3a3e8d38476b2954554828910dbdb11640d7d",
+        "sha256_in_prefix": "71ac62719c507d4f3510c43d80c3a3e8d38476b2954554828910dbdb11640d7d",
+        "size_in_bytes": 21769
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "109f7140d67e5d1e8d6051c29c2187ff082ca4e491aa9b2a979cbd81dada7474",
+        "sha256_in_prefix": "109f7140d67e5d1e8d6051c29c2187ff082ca4e491aa9b2a979cbd81dada7474",
+        "size_in_bytes": 4616
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "2d42cdba927801ff1a6499ddea7ad3b94eec2afd1a2f972097751f83586047fb",
+        "sha256_in_prefix": "2d42cdba927801ff1a6499ddea7ad3b94eec2afd1a2f972097751f83586047fb",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e36d7051f272cbcec64ae19f4dee8cfb4f1c271488f070751ccc6599e129493e",
+        "sha256_in_prefix": "e36d7051f272cbcec64ae19f4dee8cfb4f1c271488f070751ccc6599e129493e",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil-5.9.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8023619f9ef0ce4b038d20084a680c2746a25f342e964d062616f6f81032620c",
+        "sha256_in_prefix": "8023619f9ef0ce4b038d20084a680c2746a25f342e964d062616f6f81032620c",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2bcc48e017e31005c717b28944e40092c9f73bef62686c892a860db7b5d75e8e",
+        "sha256_in_prefix": "2bcc48e017e31005c717b28944e40092c9f73bef62686c892a860db7b5d75e8e",
+        "size_in_bytes": 87457
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "779f6f7398fd9fce9cd4f9278c9b4df5408d1a9be0a4fdb68aa83772dd866a57",
+        "sha256_in_prefix": "779f6f7398fd9fce9cd4f9278c9b4df5408d1a9be0a4fdb68aa83772dd866a57",
+        "size_in_bytes": 88198
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_common.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8811c3e93bde382b771754e2177c60609b5720d587f271924d94ee8edaac63f4",
+        "sha256_in_prefix": "8811c3e93bde382b771754e2177c60609b5720d587f271924d94ee8edaac63f4",
+        "size_in_bytes": 30764
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_compat.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1444c0793c18be5e58ca8658e180512b9c3579e095b42d2095f22ac0c3a4699f",
+        "sha256_in_prefix": "1444c0793c18be5e58ca8658e180512b9c3579e095b42d2095f22ac0c3a4699f",
+        "size_in_bytes": 18561
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_psaix.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "043351cf89b16eb72f651d8227bf16adb4cd3a1205ba2f85a5831282c3921fc7",
+        "sha256_in_prefix": "043351cf89b16eb72f651d8227bf16adb4cd3a1205ba2f85a5831282c3921fc7",
+        "size_in_bytes": 24730
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_psbsd.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "af9bb05e0cf2bdb3c242b7af86b98d01b5678e71b54e3b4f64a3144f798d84f9",
+        "sha256_in_prefix": "af9bb05e0cf2bdb3c242b7af86b98d01b5678e71b54e3b4f64a3144f798d84f9",
+        "size_in_bytes": 35206
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_pslinux.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a7027ab8c680e037e8dc9e925f1758749a98416a5fe76580328c17f329cf7ed",
+        "sha256_in_prefix": "6a7027ab8c680e037e8dc9e925f1758749a98416a5fe76580328c17f329cf7ed",
+        "size_in_bytes": 89935
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_psosx.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4c40cb1998043f37e0394a55dc748cf8b07a14435ef98bf04b2bfab4c3d15c2",
+        "sha256_in_prefix": "e4c40cb1998043f37e0394a55dc748cf8b07a14435ef98bf04b2bfab4c3d15c2",
+        "size_in_bytes": 22056
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_psposix.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ac47eda6451bae168e2a5875a9d8edf41b5156af3676acb738cf384540e96af",
+        "sha256_in_prefix": "3ac47eda6451bae168e2a5875a9d8edf41b5156af3676acb738cf384540e96af",
+        "size_in_bytes": 6509
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_pssunos.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "c9c0156a08a1d1748b253ea837b7959e4d3e722b1d4b476e8f21c59d25b500bb",
+        "sha256_in_prefix": "c9c0156a08a1d1748b253ea837b7959e4d3e722b1d4b476e8f21c59d25b500bb",
+        "size_in_bytes": 30734
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/__pycache__/_pswindows.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "cb1a440344bfb9c5c3a34296b2603366a47927b23bf1cc71907957fe3a878243",
+        "sha256_in_prefix": "cb1a440344bfb9c5c3a34296b2603366a47927b23bf1cc71907957fe3a878243",
+        "size_in_bytes": 44850
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_common.py",
+        "path_type": "hardlink",
+        "sha256": "8ea185ed674895ff10743babd02b84f3ec6e2bc38590c13dfa50d12f6134d829",
+        "sha256_in_prefix": "8ea185ed674895ff10743babd02b84f3ec6e2bc38590c13dfa50d12f6134d829",
+        "size_in_bytes": 26445
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "63258a75640ce67c814aa0e2e7ee50427d51f8b74094aba5a2d01f89d4816c8e",
+        "sha256_in_prefix": "63258a75640ce67c814aa0e2e7ee50427d51f8b74094aba5a2d01f89d4816c8e",
+        "size_in_bytes": 15043
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_psaix.py",
+        "path_type": "hardlink",
+        "sha256": "81110112ef95dcd342fc23894a869ba96c2479fe0982fc4db20398738bbb8c86",
+        "sha256_in_prefix": "81110112ef95dcd342fc23894a869ba96c2479fe0982fc4db20398738bbb8c86",
+        "size_in_bytes": 18552
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_psbsd.py",
+        "path_type": "hardlink",
+        "sha256": "b1c612d8833fef37bd53cc8ac9fa0c2c88bfd76908c901ee8adf972c452bd6d8",
+        "sha256_in_prefix": "b1c612d8833fef37bd53cc8ac9fa0c2c88bfd76908c901ee8adf972c452bd6d8",
+        "size_in_bytes": 31032
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_pslinux.py",
+        "path_type": "hardlink",
+        "sha256": "046ca1d7b1f5423014b91566403a9bd31e14b08d8b61891c55664e964854bdb6",
+        "sha256_in_prefix": "046ca1d7b1f5423014b91566403a9bd31e14b08d8b61891c55664e964854bdb6",
+        "size_in_bytes": 85465
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_psosx.py",
+        "path_type": "hardlink",
+        "sha256": "b8abff0e9851282e42dd41b8ad4c4233c1e97a27249e6334ab5dad63421515e4",
+        "sha256_in_prefix": "b8abff0e9851282e42dd41b8ad4c4233c1e97a27249e6334ab5dad63421515e4",
+        "size_in_bytes": 16142
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_psposix.py",
+        "path_type": "hardlink",
+        "sha256": "7bc96663bcf7ccaaa8e57a1e3cfedd872e4d470c46315116ec1ac4e057cb73f3",
+        "sha256_in_prefix": "7bc96663bcf7ccaaa8e57a1e3cfedd872e4d470c46315116ec1ac4e057cb73f3",
+        "size_in_bytes": 8046
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_pssunos.py",
+        "path_type": "hardlink",
+        "sha256": "95ae6b98bd00d97982d742cbd05d1abe7c0c36db49ba225d14f81847f1eef8bc",
+        "sha256_in_prefix": "95ae6b98bd00d97982d742cbd05d1abe7c0c36db49ba225d14f81847f1eef8bc",
+        "size_in_bytes": 25489
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_psutil_osx.cpython-312-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "6b5477823d482b030ad37c77536205e2c44f442bc40970ed84bb39a2ca6fb5f8",
+        "sha256_in_prefix": "6b5477823d482b030ad37c77536205e2c44f442bc40970ed84bb39a2ca6fb5f8",
+        "size_in_bytes": 51004
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_psutil_posix.cpython-312-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "50acd2847c20c81ad09beab8a0984f70ef89277f5b554343bc9a3818edc16b85",
+        "sha256_in_prefix": "50acd2847c20c81ad09beab8a0984f70ef89277f5b554343bc9a3818edc16b85",
+        "size_in_bytes": 15672
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/_pswindows.py",
+        "path_type": "hardlink",
+        "sha256": "0eaf71886098d81dec59824f61bd3c238a35b55586b154d82a3959b4e5853ce7",
+        "sha256_in_prefix": "0eaf71886098d81dec59824f61bd3c238a35b55586b154d82a3959b4e5853ce7",
+        "size_in_bytes": 37120
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "67d65fd9e4ba584e2e3f973503090477817aa8b5a260c8b0af6965556c5b7bd3",
+        "sha256_in_prefix": "67d65fd9e4ba584e2e3f973503090477817aa8b5a260c8b0af6965556c5b7bd3",
+        "size_in_bytes": 57822
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "861337f388e3150b4317db138ff0d76814025c254bc1dca32e29785135e47bc4",
+        "sha256_in_prefix": "861337f388e3150b4317db138ff0d76814025c254bc1dca32e29785135e47bc4",
+        "size_in_bytes": 293
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3c5eea03999e74b6064de8c716f4b8a4fe9e4b4f28658af883f310f1af0e9c1e",
+        "sha256_in_prefix": "3c5eea03999e74b6064de8c716f4b8a4fe9e4b4f28658af883f310f1af0e9c1e",
+        "size_in_bytes": 81453
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "79ec366b6285e72b5aab088f7e2083b92999da87d16b5229fb7dc09e758469a2",
+        "sha256_in_prefix": "79ec366b6285e72b5aab088f7e2083b92999da87d16b5229fb7dc09e758469a2",
+        "size_in_bytes": 293
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/runner.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8716ef56e380858296911bc4e2dd00ccb629bbe6cbadfe55a1b6b440f27cff1a",
+        "sha256_in_prefix": "8716ef56e380858296911bc4e2dd00ccb629bbe6cbadfe55a1b6b440f27cff1a",
+        "size_in_bytes": 17873
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_aix.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "1a6beddd49240b7662c56f5a367f4967c24957bc62ed6b8e2875f5a24e466c64",
+        "sha256_in_prefix": "1a6beddd49240b7662c56f5a367f4967c24957bc62ed6b8e2875f5a24e466c64",
+        "size_in_bytes": 5707
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_bsd.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "0631a46aa08f56662ce1313bfb8978918fe5fbbd243cb833ec98b58666a81c27",
+        "sha256_in_prefix": "0631a46aa08f56662ce1313bfb8978918fe5fbbd243cb833ec98b58666a81c27",
+        "size_in_bytes": 35724
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_connections.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8398664460112f3d539be4ca1ca67fc93983dd555fcea50235c89445c67460d7",
+        "sha256_in_prefix": "8398664460112f3d539be4ca1ca67fc93983dd555fcea50235c89445c67460d7",
+        "size_in_bytes": 29135
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_contracts.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "8d1b74c367aa28f59598b1fa247a619d0511669477782f470f83f802145513a1",
+        "sha256_in_prefix": "8d1b74c367aa28f59598b1fa247a619d0511669477782f470f83f802145513a1",
+        "size_in_bytes": 46318
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_linux.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "89e78bdabfb519babc4af4a5a36188d94cca75bf6a4ccf284bb025cd8993ffcf",
+        "sha256_in_prefix": "89e78bdabfb519babc4af4a5a36188d94cca75bf6a4ccf284bb025cd8993ffcf",
+        "size_in_bytes": 139106
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_memleaks.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4342e8cf15b0adfa0b10f0c2ab906dfb1aeaa950d8e5252e5b21c4f65dbd2983",
+        "sha256_in_prefix": "4342e8cf15b0adfa0b10f0c2ab906dfb1aeaa950d8e5252e5b21c4f65dbd2983",
+        "size_in_bytes": 35125
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_misc.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "682ffbdb9a4f792233605509ea585080992b3388ea9b413e2fbbd2176e15fe4e",
+        "sha256_in_prefix": "682ffbdb9a4f792233605509ea585080992b3388ea9b413e2fbbd2176e15fe4e",
+        "size_in_bytes": 47023
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_osx.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "52b2f7300d10c15151d30f086041b5ef0f13e49b0009b12951a7a6566bebfc69",
+        "sha256_in_prefix": "52b2f7300d10c15151d30f086041b5ef0f13e49b0009b12951a7a6566bebfc69",
+        "size_in_bytes": 12365
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_posix.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "85481148613686910f18e3cb1dfd8ee74d0c02dcf5f24fa767f13c72d2f8d504",
+        "sha256_in_prefix": "85481148613686910f18e3cb1dfd8ee74d0c02dcf5f24fa767f13c72d2f8d504",
+        "size_in_bytes": 22212
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_process.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "dbcf997799fd841692308f4ea6dfb8d8aa278678454ef45855c062d2471b348a",
+        "sha256_in_prefix": "dbcf997799fd841692308f4ea6dfb8d8aa278678454ef45855c062d2471b348a",
+        "size_in_bytes": 99492
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_sunos.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "4913ff4d999a530e0726f85a9fd4fea189d532243a6ae638c4ec7fce3b16e6d4",
+        "sha256_in_prefix": "4913ff4d999a530e0726f85a9fd4fea189d532243a6ae638c4ec7fce3b16e6d4",
+        "size_in_bytes": 2392
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_system.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "e833f5fc72874126882999e6c10f404d9e1e26ac7369e6e757d37703ba0bc684",
+        "sha256_in_prefix": "e833f5fc72874126882999e6c10f404d9e1e26ac7369e6e757d37703ba0bc684",
+        "size_in_bytes": 55330
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_testutils.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "76dfe4e6c2aaee410c73882764bef4462494d1c9bffec709ff6da829a76aa160",
+        "sha256_in_prefix": "76dfe4e6c2aaee410c73882764bef4462494d1c9bffec709ff6da829a76aa160",
+        "size_in_bytes": 28981
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_unicode.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "57c568c77bb92b362d659f43b81234ca4763395474e8e48c97fa9e304b40f230",
+        "sha256_in_prefix": "57c568c77bb92b362d659f43b81234ca4763395474e8e48c97fa9e304b40f230",
+        "size_in_bytes": 17508
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/__pycache__/test_windows.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "5497b523603888301a306b6085191611853d4c55210d757cb17ed83ea2c967fb",
+        "sha256_in_prefix": "5497b523603888301a306b6085191611853d4c55210d757cb17ed83ea2c967fb",
+        "size_in_bytes": 53234
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/runner.py",
+        "path_type": "hardlink",
+        "sha256": "7b39b57496ee8a638b118464ffc2eb012d5117e8464f52a485afe16fcef6d2d6",
+        "sha256_in_prefix": "7b39b57496ee8a638b118464ffc2eb012d5117e8464f52a485afe16fcef6d2d6",
+        "size_in_bytes": 11204
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_aix.py",
+        "path_type": "hardlink",
+        "sha256": "588b053e201992ce16e237b716ab7e1ac4cbb943f205f1aceb8c6192e44569f4",
+        "sha256_in_prefix": "588b053e201992ce16e237b716ab7e1ac4cbb943f205f1aceb8c6192e44569f4",
+        "size_in_bytes": 4526
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_bsd.py",
+        "path_type": "hardlink",
+        "sha256": "4101f870b156d6d26e9adaefc35b906fc75dfc8c5f4d46b8ddb4a2387499fff6",
+        "sha256_in_prefix": "4101f870b156d6d26e9adaefc35b906fc75dfc8c5f4d46b8ddb4a2387499fff6",
+        "size_in_bytes": 20695
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_connections.py",
+        "path_type": "hardlink",
+        "sha256": "45931e8e012e38a384c607fd7bf102e866b18b06353ceec23b4edfb4ae411d21",
+        "sha256_in_prefix": "45931e8e012e38a384c607fd7bf102e866b18b06353ceec23b4edfb4ae411d21",
+        "size_in_bytes": 21380
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_contracts.py",
+        "path_type": "hardlink",
+        "sha256": "d77d51f601400c1f5da19e83f02bc34de8c20cbe16e76be1dc094935b431c93e",
+        "sha256_in_prefix": "d77d51f601400c1f5da19e83f02bc34de8c20cbe16e76be1dc094935b431c93e",
+        "size_in_bytes": 27074
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_linux.py",
+        "path_type": "hardlink",
+        "sha256": "0a51ad5bd40f5439dc8c91837a1e7789889edba347d86e1be3dcbaec48c59d65",
+        "sha256_in_prefix": "0a51ad5bd40f5439dc8c91837a1e7789889edba347d86e1be3dcbaec48c59d65",
+        "size_in_bytes": 93248
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_memleaks.py",
+        "path_type": "hardlink",
+        "sha256": "661e91ae01b9204b11da14fd7524ab9661844919ab031feac8b0181767b31e0b",
+        "sha256_in_prefix": "661e91ae01b9204b11da14fd7524ab9661844919ab031feac8b0181767b31e0b",
+        "size_in_bytes": 14880
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_misc.py",
+        "path_type": "hardlink",
+        "sha256": "15a709247c4f00fe846dd0ef5e9fef393d0cb63e338b941acea5b0c9d91d14e6",
+        "sha256_in_prefix": "15a709247c4f00fe846dd0ef5e9fef393d0cb63e338b941acea5b0c9d91d14e6",
+        "size_in_bytes": 30230
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_osx.py",
+        "path_type": "hardlink",
+        "sha256": "07f9686ba2e1e2ac6dc19d87e5ce2a37547b7ac85b6ab19498988e54f65c1143",
+        "sha256_in_prefix": "07f9686ba2e1e2ac6dc19d87e5ce2a37547b7ac85b6ab19498988e54f65c1143",
+        "size_in_bytes": 7583
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_posix.py",
+        "path_type": "hardlink",
+        "sha256": "ea5638d5d6a0fa798f01bc222ea37591ae95095606055c7fbce6f8d6094b2189",
+        "sha256_in_prefix": "ea5638d5d6a0fa798f01bc222ea37591ae95095606055c7fbce6f8d6094b2189",
+        "size_in_bytes": 15144
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_process.py",
+        "path_type": "hardlink",
+        "sha256": "3c26f049dbc7bfd9f6ac15a0698ccf79f23f3f06ed7c5014ff3184eafe4824bd",
+        "sha256_in_prefix": "3c26f049dbc7bfd9f6ac15a0698ccf79f23f3f06ed7c5014ff3184eafe4824bd",
+        "size_in_bytes": 60645
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_sunos.py",
+        "path_type": "hardlink",
+        "sha256": "b68b01ebee1ba0ce9994855a789661e986c163c8151919b46085e06ff67af465",
+        "sha256_in_prefix": "b68b01ebee1ba0ce9994855a789661e986c163c8151919b46085e06ff67af465",
+        "size_in_bytes": 1351
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_system.py",
+        "path_type": "hardlink",
+        "sha256": "2dbffa42843c26221770f23e93cd253ca82455b04815e4717bd190cbb8dc5d77",
+        "sha256_in_prefix": "2dbffa42843c26221770f23e93cd253ca82455b04815e4717bd190cbb8dc5d77",
+        "size_in_bytes": 35572
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_testutils.py",
+        "path_type": "hardlink",
+        "sha256": "c7088fda6501803733893af44798c5937a504dcfa35a31a965debbd023a1fdda",
+        "sha256_in_prefix": "c7088fda6501803733893af44798c5937a504dcfa35a31a965debbd023a1fdda",
+        "size_in_bytes": 14445
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_unicode.py",
+        "path_type": "hardlink",
+        "sha256": "d7b23312e716f4869c27d838217587fef2dc9ab9715cb4a2609ed3c53262ae5e",
+        "sha256_in_prefix": "d7b23312e716f4869c27d838217587fef2dc9ab9715cb4a2609ed3c53262ae5e",
+        "size_in_bytes": 12459
+      },
+      {
+        "_path": "lib/python3.12/site-packages/psutil/tests/test_windows.py",
+        "path_type": "hardlink",
+        "sha256": "a1d83565d317e3c033b6740afd7b2eaa9b7f107b1d3eddcf85a96d42b616b122",
+        "sha256_in_prefix": "a1d83565d317e3c033b6740afd7b2eaa9b7f107b1d3eddcf85a96d42b616b122",
+        "size_in_bytes": 32146
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "48a8e09f3effc4c7ba06e8696c62769b8d963d97b66a3e1c093119eea3358da9",
+  "size": 466323,
+  "subdir": "osx-64",
+  "timestamp": 1699246717000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/psutil-5.9.0-py312h6c40b1e_0.conda",
+  "version": "5.9.0"
+}

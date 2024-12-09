@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["src"]
+
+[project]
+name = "Space_matrix_Estimation"
+version = "0.0.0"
+description = "A machine learning project for SM"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "dill",
+    "flask"
+]    

@@ -1,0 +1,4 @@
+[ 2024-12-05 14:31:03,538 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-05 14:31:03,547 ] 97 werkzeug - INFO -  * Debugger PIN: 410-778-800
+[ 2024-12-05 14:31:11,752 ] 30 root - INFO - Ok requested the website for data
+[ 2024-12-05 14:31:27,371 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2024 14:31:27] "POST /predict HTTP/1.1" 200 -

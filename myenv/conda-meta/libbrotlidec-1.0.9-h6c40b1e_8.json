@@ -1,0 +1,65 @@
+{
+  "build": "h6c40b1e_8",
+  "build_number": 8,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libbrotlicommon 1.0.9 h6c40b1e_8"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/libbrotlidec-1.0.9-h6c40b1e_8",
+  "files": [
+    "lib/libbrotlidec.1.0.9.dylib",
+    "lib/libbrotlidec.1.dylib",
+    "lib/libbrotlidec.dylib",
+    "lib/pkgconfig/libbrotlidec.pc"
+  ],
+  "fn": "libbrotlidec-1.0.9-h6c40b1e_8.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/libbrotlidec-1.0.9-h6c40b1e_8",
+    "type": 1
+  },
+  "md5": "6338cd7779e614fc16d835990e627e04",
+  "name": "libbrotlidec",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/libbrotlidec-1.0.9-h6c40b1e_8.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libbrotlidec.1.0.9.dylib",
+        "path_type": "hardlink",
+        "sha256": "d34cd6ae60939238b96e98b936cd04e8c7c5cae1bac49f1a930c6161f35d7017",
+        "sha256_in_prefix": "d34cd6ae60939238b96e98b936cd04e8c7c5cae1bac49f1a930c6161f35d7017",
+        "size_in_bytes": 52532
+      },
+      {
+        "_path": "lib/libbrotlidec.1.dylib",
+        "path_type": "softlink",
+        "sha256": "d34cd6ae60939238b96e98b936cd04e8c7c5cae1bac49f1a930c6161f35d7017",
+        "size_in_bytes": 52532
+      },
+      {
+        "_path": "lib/libbrotlidec.dylib",
+        "path_type": "softlink",
+        "sha256": "d34cd6ae60939238b96e98b936cd04e8c7c5cae1bac49f1a930c6161f35d7017",
+        "size_in_bytes": 52532
+      },
+      {
+        "_path": "lib/pkgconfig/libbrotlidec.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_67j4p18ie3/croot/brotli-split_1714483158198/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "9a9c15d3c31da41239f0daf180553ab43a1870bb9a897928527868e98efeb3fb",
+        "sha256_in_prefix": "b731a4d938f17e69dbefff482ec280bd723df2152f6357265a16690fac8ed9f3",
+        "size_in_bytes": 787
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "eb14311ce6debd46939bfe8fd16a52de993838d4151b4c01798cfcaadb8cc8d0",
+  "size": 31808,
+  "subdir": "osx-64",
+  "timestamp": 1714483343000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libbrotlidec-1.0.9-h6c40b1e_8.conda",
+  "version": "1.0.9"
+}

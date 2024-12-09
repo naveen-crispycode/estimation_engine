@@ -1,0 +1,9 @@
+[ 2024-12-06 16:26:15,352 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-06 16:26:15,363 ] 97 werkzeug - INFO -  * Debugger PIN: 410-778-800
+[ 2024-12-06 16:27:25,994 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 16:27:25] "GET / HTTP/1.1" 200 -
+[ 2024-12-06 16:27:26,024 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 16:27:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-12-06 16:27:45,534 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 16:27:45] "GET / HTTP/1.1" 200 -
+[ 2024-12-06 16:27:58,341 ] 43 root - INFO - Ok requested the website for data
+[ 2024-12-06 16:28:15,669 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 16:28:15] "POST /classify HTTP/1.1" 200 -
+[ 2024-12-06 16:29:36,905 ] 30 root - INFO - Ok requested the website for data
+[ 2024-12-06 16:29:52,224 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 16:29:52] "POST /predict HTTP/1.1" 200 -

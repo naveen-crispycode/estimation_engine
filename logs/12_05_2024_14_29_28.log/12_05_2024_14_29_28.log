@@ -1,0 +1,5 @@
+[ 2024-12-05 14:29:28,654 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-05 14:29:28,663 ] 97 werkzeug - INFO -  * Debugger PIN: 410-778-800
+[ 2024-12-05 14:29:29,584 ] 30 root - INFO - Ok requested the website for data
+[ 2024-12-05 14:29:36,143 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2024 14:29:36] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2024-12-05 14:29:49,358 ] 97 werkzeug - INFO -  * Detected change in '/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/src/pipeline/prediction_pipeline.py', reloading

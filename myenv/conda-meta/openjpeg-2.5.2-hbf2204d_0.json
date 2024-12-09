@@ -1,0 +1,147 @@
+{
+  "build": "hbf2204d_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.6",
+    "libpng >=1.6.39,<1.7.0a0",
+    "libtiff >=4.5.0,<5.0a0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/openjpeg-2.5.2-hbf2204d_0",
+  "files": [
+    "bin/opj_compress",
+    "bin/opj_decompress",
+    "bin/opj_dump",
+    "include/openjpeg-2.5/openjpeg.h",
+    "include/openjpeg-2.5/opj_config.h",
+    "lib/cmake/openjpeg-2.5/OpenJPEGConfig.cmake",
+    "lib/cmake/openjpeg-2.5/OpenJPEGConfigVersion.cmake",
+    "lib/cmake/openjpeg-2.5/OpenJPEGTargets-release.cmake",
+    "lib/cmake/openjpeg-2.5/OpenJPEGTargets.cmake",
+    "lib/libopenjp2.2.5.2.dylib",
+    "lib/libopenjp2.7.dylib",
+    "lib/libopenjp2.a",
+    "lib/libopenjp2.dylib",
+    "lib/pkgconfig/libopenjp2.pc"
+  ],
+  "fn": "openjpeg-2.5.2-hbf2204d_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/openjpeg-2.5.2-hbf2204d_0",
+    "type": 1
+  },
+  "md5": "8463f11309271a93d615450382761470",
+  "name": "openjpeg",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/openjpeg-2.5.2-hbf2204d_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/opj_compress",
+        "path_type": "hardlink",
+        "sha256": "b299f93f9c039a6fa1ecffdf9d22e9dd1030835a62ad3969d97b678d28302ae2",
+        "sha256_in_prefix": "b299f93f9c039a6fa1ecffdf9d22e9dd1030835a62ad3969d97b678d28302ae2",
+        "size_in_bytes": 142112
+      },
+      {
+        "_path": "bin/opj_decompress",
+        "path_type": "hardlink",
+        "sha256": "d6f5edc285a80c11351ed74018b04a5f498beb67d572ca291accd7f5f5aa84fd",
+        "sha256_in_prefix": "d6f5edc285a80c11351ed74018b04a5f498beb67d572ca291accd7f5f5aa84fd",
+        "size_in_bytes": 134576
+      },
+      {
+        "_path": "bin/opj_dump",
+        "path_type": "hardlink",
+        "sha256": "b56f1de9800d7c54df158c2cb961b76667b53dd6e98940b7342bf992ab597e11",
+        "sha256_in_prefix": "b56f1de9800d7c54df158c2cb961b76667b53dd6e98940b7342bf992ab597e11",
+        "size_in_bytes": 116624
+      },
+      {
+        "_path": "include/openjpeg-2.5/openjpeg.h",
+        "path_type": "hardlink",
+        "sha256": "6b9c063e5b1e074e169e22731fb802b08b0fbc4bd12566523905ea9b8f96411e",
+        "sha256_in_prefix": "6b9c063e5b1e074e169e22731fb802b08b0fbc4bd12566523905ea9b8f96411e",
+        "size_in_bytes": 64200
+      },
+      {
+        "_path": "include/openjpeg-2.5/opj_config.h",
+        "path_type": "hardlink",
+        "sha256": "c2737f84b6f7c0ecb4f662c91d1492c067384236d594f5798c2969d7d0c4c8dd",
+        "sha256_in_prefix": "c2737f84b6f7c0ecb4f662c91d1492c067384236d594f5798c2969d7d0c4c8dd",
+        "size_in_bytes": 371
+      },
+      {
+        "_path": "lib/cmake/openjpeg-2.5/OpenJPEGConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "14c23ce63df91db163de3816e337adc8648035dc0678034b501a143cde7ac238",
+        "sha256_in_prefix": "14c23ce63df91db163de3816e337adc8648035dc0678034b501a143cde7ac238",
+        "size_in_bytes": 2193
+      },
+      {
+        "_path": "lib/cmake/openjpeg-2.5/OpenJPEGConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "f3ead79262c2300fe8fe9776f3b896d554323e930ebbdabcf396984d09df4ca6",
+        "sha256_in_prefix": "f3ead79262c2300fe8fe9776f3b896d554323e930ebbdabcf396984d09df4ca6",
+        "size_in_bytes": 2762
+      },
+      {
+        "_path": "lib/cmake/openjpeg-2.5/OpenJPEGTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "13da45ff2308761375bd1c59e2399fe90c24346c82797950fe94ecde1c77077e",
+        "sha256_in_prefix": "13da45ff2308761375bd1c59e2399fe90c24346c82797950fe94ecde1c77077e",
+        "size_in_bytes": 2506
+      },
+      {
+        "_path": "lib/cmake/openjpeg-2.5/OpenJPEGTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "ed60d623a122428ce8fc88b1f10d5b3cec222573960e07984dc2399f456f845b",
+        "sha256_in_prefix": "ed60d623a122428ce8fc88b1f10d5b3cec222573960e07984dc2399f456f845b",
+        "size_in_bytes": 4537
+      },
+      {
+        "_path": "lib/libopenjp2.2.5.2.dylib",
+        "path_type": "hardlink",
+        "sha256": "36388e86b210dc87298429ac49eb0f775255295a3777e84353ff81b0009d6ec0",
+        "sha256_in_prefix": "36388e86b210dc87298429ac49eb0f775255295a3777e84353ff81b0009d6ec0",
+        "size_in_bytes": 423724
+      },
+      {
+        "_path": "lib/libopenjp2.7.dylib",
+        "path_type": "softlink",
+        "sha256": "36388e86b210dc87298429ac49eb0f775255295a3777e84353ff81b0009d6ec0",
+        "size_in_bytes": 423724
+      },
+      {
+        "_path": "lib/libopenjp2.a",
+        "path_type": "hardlink",
+        "sha256": "d045c8f5bd2353911b93e7256a58f8672fbe28231069b07abd1d626eb547a2a3",
+        "sha256_in_prefix": "d045c8f5bd2353911b93e7256a58f8672fbe28231069b07abd1d626eb547a2a3",
+        "size_in_bytes": 508512
+      },
+      {
+        "_path": "lib/libopenjp2.dylib",
+        "path_type": "softlink",
+        "sha256": "36388e86b210dc87298429ac49eb0f775255295a3777e84353ff81b0009d6ec0",
+        "size_in_bytes": 423724
+      },
+      {
+        "_path": "lib/pkgconfig/libopenjp2.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_ffl4zdhpfe/croot/openjpeg_1722872635136/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "ddf2b1152b289546ff9d378a39e02fc358976f7ba68083829b4e97d844ce2675",
+        "sha256_in_prefix": "e2c84f252f40f82614b4d0855e17ffebffa43947616c291b561b987e3cc0fc54",
+        "size_in_bytes": 614
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d51199d03457d85dc08acb33102017eb08aadf2dc5d23ebc9a818459d5e9bdc2",
+  "size": 359433,
+  "subdir": "osx-64",
+  "timestamp": 1722872704000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/openjpeg-2.5.2-hbf2204d_0.conda",
+  "version": "2.5.2"
+}

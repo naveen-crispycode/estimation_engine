@@ -1,0 +1,11 @@
+[ 2024-12-06 17:40:03,637 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-06 17:40:03,647 ] 97 werkzeug - INFO -  * Debugger PIN: 410-778-800
+[ 2024-12-06 17:40:19,870 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 17:40:19] "GET / HTTP/1.1" 200 -
+[ 2024-12-06 17:40:26,072 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 17:40:26] "[31m[1mGET /classify HTTP/1.1[0m" 405 -
+[ 2024-12-06 17:40:30,919 ] 43 root - INFO - Ok requested the website for data
+[ 2024-12-06 17:40:48,498 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 17:40:48] "POST /classify HTTP/1.1" 200 -
+[ 2024-12-06 17:51:22,813 ] 30 root - INFO - Ok requested the website for data
+[ 2024-12-06 17:51:38,207 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 17:51:38] "POST /predict HTTP/1.1" 200 -
+[ 2024-12-06 17:51:46,654 ] 43 root - INFO - Ok requested the website for data
+[ 2024-12-06 17:52:02,851 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Dec/2024 17:52:02] "POST /classify HTTP/1.1" 200 -
+[ 2024-12-06 17:57:27,640 ] 97 werkzeug - INFO -  * Detected change in '/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/src/pipeline/prediction_pipeline.py', reloading

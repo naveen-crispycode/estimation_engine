@@ -1,0 +1,2 @@
+[ 2024-12-03 15:01:29,140 ] 22 root - INFO - Entered the data ingestion stage
+[ 2024-12-03 15:01:29,178 ] 25 root - INFO - Read the dataset as a dataframe

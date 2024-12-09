@@ -1,0 +1,14 @@
+prefix=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv
+exec_prefix=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv
+libdir=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv/lib
+includedir=/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv/lib -lfreetype
+Libs.private: -lz -L/Users/naveen/Desktop/Projects/Space_Matrix/Estimation_Engine/myenv/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

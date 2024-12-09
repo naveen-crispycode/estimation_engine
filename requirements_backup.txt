@@ -1,0 +1,11 @@
+dill==0.3.9
+matplotlib==3.9.2
+setuptools==75.6.0
+Flask==3.1.0
+numpy
+openpyxl
+scikit-learn
+pandas
+seaborn
+wheel==0.44.0
+Werkzeug==3.1.3

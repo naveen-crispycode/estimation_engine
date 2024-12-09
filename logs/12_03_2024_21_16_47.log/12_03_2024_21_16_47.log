@@ -1,0 +1,4 @@
+[ 2024-12-03 21:16:48,351 ] 25 root - INFO - Entered the data ingestion stage
+[ 2024-12-03 21:16:48,384 ] 28 root - INFO - Read the dataset as a dataframe
+[ 2024-12-03 21:16:48,501 ] 211 root - INFO - The train and test dataset have been imported
+[ 2024-12-03 21:16:48,503 ] 214 root - INFO - removed first column

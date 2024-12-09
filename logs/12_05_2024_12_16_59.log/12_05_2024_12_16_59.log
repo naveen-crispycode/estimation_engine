@@ -1,0 +1,4 @@
+[ 2024-12-05 12:16:59,104 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-12-05 12:16:59,116 ] 97 werkzeug - INFO -  * Debugger PIN: 410-778-800
+[ 2024-12-05 12:18:27,959 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2024 12:18:27] "[33mGET / HTTP/1.1[0m" 404 -
+[ 2024-12-05 12:18:27,997 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Dec/2024 12:18:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

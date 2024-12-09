@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Space_matrix_Estimation
+Version: 0.0.0
+Summary: A machine learning project for SM
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: dill

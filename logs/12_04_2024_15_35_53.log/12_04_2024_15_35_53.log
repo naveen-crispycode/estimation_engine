@@ -1,0 +1,18 @@
+[ 2024-12-04 15:35:53,958 ] 29 root - INFO - Entered the data ingestion stage
+[ 2024-12-04 15:35:54,019 ] 32 root - INFO - Read the dataset as a dataframe
+[ 2024-12-04 15:35:54,124 ] 219 root - INFO - The train and test dataset have been imported
+[ 2024-12-04 15:35:54,126 ] 222 root - INFO - removed first column
+[ 2024-12-04 15:35:54,159 ] 195 root - INFO - Categorical_Columns encoding completed: ['project_location', 'fire_approval_std', 'head_count_from_client', 'base_floor_screeding_type', 'workhall_ceiling_type', 'door_type_in_rooms', 'toilets_by_landlord', 'Fire exits door in SM scope', 'acs_type', 'electric_strick_lock_required', 'access_card_in_scope', 'access_main_server_in_scope', 'access_recording_pc_in_scope', 'critical_room_reader_type', 'cctv_required_in_open_ofc_corridor', 'cctv_recording_type', 'cctv_camera_poe_switch_in_scope', 'cctv_cloud_license', 'cctv_monitor_in_scope', 'bms_in_scope', 'repeater_panel_type', 'wld_sytem_type', 'scope_of_rodent_ctrl_system', 'vesda_in_scope', 'vesda_scope', 'flap_barrier_or_turnstile', 'scope_of_sprinkler', 'false_ceiling_void_bracket', 'scope_of_gas_supression_system', 'fe36_supression_system_required', 'fe36_supression_system_room_coverage', 'fire_extinguisher_room_coverage', 'hvac_config', 'hvac_24x7_type', 'dedicated_hvac_room_coverage', 'vav_in_scope', 'underdeck_in_scope', 'toilet_in_scope', 'workstation_type', 'workspace_operation_ration', 'hat_in_scope', 'usb_in_scope', 'add_on_rp_soc_in_scope', 'ups_required', 'conduit_type', 'lighting_control_system', 'it_node_details', 'node_percent_requirement', 'backbone_cabling_fiber', 'pdu_type']
+[ 2024-12-04 15:35:54,159 ] 196 root - INFO - The cat features are 50
+[ 2024-12-04 15:35:54,159 ] 197 root - INFO - Ordinal_Columns encoding completed: ['dx_details', 'cctv_type', 'cctv_mega_pix', 'cctv_storage', 'fa_type', 'pa_system_dx_type', 'normal_lane_dx_details', 'fire_extinguisher_dx_details', 'lighting_design_details', 'PHE Fixture Catagory']
+[ 2024-12-04 15:35:54,159 ] 224 root - INFO - The preprocessor object has been initiated
+[ 2024-12-04 15:35:54,160 ] 226 root - INFO - shape of input_train (14, 250)
+[ 2024-12-04 15:35:54,161 ] 228 root - INFO - [nan]
+[ 2024-12-04 15:35:54,161 ] 231 root - INFO - Applying preprocessing object on training and test set
+[ 2024-12-04 15:35:54,161 ] 232 root - INFO - Dataset size is (14, 250)
+[ 2024-12-04 15:35:54,184 ] 239 root - INFO - Saving the object
+[ 2024-12-04 15:35:54,192 ] 51 root - INFO - Data is transformed
+[ 2024-12-04 15:35:54,193 ] 26 root - INFO - Split the training set and test set
+[ 2024-12-04 15:38:33,188 ] 37 root - INFO - Created a model with multi Output regression
+[ 2024-12-04 15:39:20,035 ] 46 root - INFO - Random Forest Multi-output Model MSE: 15430.960318781375
+[ 2024-12-04 15:39:20,251 ] 54 root - INFO - Model has been built
